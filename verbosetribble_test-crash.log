@@ -1,0 +1,14 @@
+Renderer info: Radeon RX 580 Series version 4.6.14831 Compatibility Profile Context 21.5.2 27.20.21003.8013 from ATI Technologies Inc.
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path C:\QuakeDev\trenchbroom\defaults\assets
+Adding file system path C:\QuakeDev\trenchbroom\defaults\assets
+Adding file system path C:\QuakeDev\id1
+Adding file system package PAK0.PAK
+Adding file system package PAK1.PAK
+Loading document from C:\Users\Kevin\Documents\GitHub\verbose-tribble\verbosetribble_test.map
+Loaded entity definition file Quake.fgd
+Loading palette file gfx\palette.lmp
+Loaded texture collection 'C:\QuakeDev\wads\prototype_1_3.wad' in 22ms
+Loaded C:\Users\Kevin\Documents\GitHub\verbose-tribble\verbosetribble_test.map in 123ms
+Saved C:\Users\Kevin\Documents\GitHub\verbose-tribble\verbosetribble_test.map in 12ms
