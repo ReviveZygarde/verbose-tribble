@@ -2078,13 +2078,6 @@
 }
 // entity 9
 {
-"classname" "item_key1"
-"origin" "-176 1968 8"
-"target" "lockdoor1"
-"angle" "270"
-}
-// entity 10
-{
 "classname" "func_door"
 "angle" "270"
 "speed" "150"
@@ -2098,14 +2091,14 @@
 ( 240 1776 0 ) ( 240 1776 1 ) ( 240 1777 0 ) 128_gold_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 11
+// entity 10
 {
 "classname" "item_key1"
 "origin" "955.143 1709.14 8"
 "angle" "180"
 "target" "lockdoor1"
 }
-// entity 12
+// entity 11
 {
 "classname" "func_button"
 "angle" "270"
@@ -2121,7 +2114,7 @@
 ( 628 1935 26 ) ( 628 1935 27 ) ( 628 1936 26 ) +ashbtn_3 [ 0 1 0 1 ] [ 0 0 -1 -6 ] 0 1 1
 }
 }
-// entity 13
+// entity 12
 {
 "classname" "func_door"
 "angle" "90"
