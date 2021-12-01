@@ -6931,7 +6931,7 @@
 "classname" "func_door"
 "sounds" "1"
 "angle" "0"
-"speed" "30"
+"speed" "60"
 "targetname" "deathDoor1"
 "lip" "1312"
 "dmg" "99999999999"
