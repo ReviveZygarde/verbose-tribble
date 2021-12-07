@@ -7992,52 +7992,47 @@
 }
 // entity 85
 {
-"classname" "item_armor1"
-"origin" "2256 -2240 0"
-}
-// entity 86
-{
 "classname" "weapon_supershotgun"
 "origin" "4144 -1280 80"
 "angle" "180"
 }
-// entity 87
+// entity 86
 {
 "classname" "item_health"
 "origin" "320 256 48"
 }
-// entity 88
+// entity 87
 {
 "classname" "item_shells"
 "origin" "160 720 48"
 }
-// entity 89
+// entity 88
 {
 "classname" "item_spikes"
 "origin" "224 720 48"
 }
-// entity 90
+// entity 89
 {
 "classname" "weapon_grenadelauncher"
 "origin" "1168 2016 -16"
 }
-// entity 91
+// entity 90
 {
 "classname" "monster_tarbaby"
 "origin" "1408 1520 8"
 "angle" "90"
 }
-// entity 92
+// entity 91
 {
 "classname" "item_health"
 "origin" "256 1328 -16"
 }
-// entity 93
+// entity 92
 {
 "classname" "monster_tarbaby"
 "origin" "816 1344 8"
 }
-// entity 94
+// entity 93
 {
 "classname" "func_door"
 "angle" "220"
@@ -8108,7 +8103,7 @@
 ( 1029.2842712474617 1950.6568542494924 53 ) ( 1029.2842712474617 1950.6568542494924 52 ) ( 1028.5771644662755 1949.9497474683058 53 ) egypt19 [ 6.3236676375468525e-15 6.496858848793995e-15 1 6 ] [ 0.7071067811865452 0.7071067811865498 -9.065481216873355e-15 20.863525 ] 90 1 1
 }
 }
-// entity 95
+// entity 94
 {
 "classname" "func_button"
 "angle" "180"
@@ -8125,38 +8120,70 @@
 ( 1008.9497474683058 1969.677669529664 20 ) ( 1008.9497474683058 1969.677669529664 21 ) ( 1008.2426406871195 1970.3847763108504 20 ) +amtlsw [ -0.7071067811865485 0.7071067811865467 0 -23.33728 ] [ 0 0 -1 -12 ] 0 1 1
 }
 }
-// entity 96
+// entity 95
 {
 "classname" "weapon_grenadelauncher"
 "origin" "-120 3909 -16"
 }
-// entity 97
+// entity 96
 {
 "classname" "monster_tarbaby"
 "origin" "-1021 3966 8"
 }
-// entity 98
+// entity 97
 {
 "classname" "monster_tarbaby"
 "origin" "-900 4098 8"
 }
-// entity 99
+// entity 98
 {
 "classname" "monster_zombie"
 "origin" "-542 4016 8"
 }
-// entity 100
+// entity 99
 {
 "classname" "item_spikes"
 "origin" "-18 3792 -16"
 }
-// entity 101
+// entity 100
 {
 "classname" "item_health"
 "origin" "-1659 3070 336"
 }
-// entity 102
+// entity 101
 {
 "classname" "item_health"
 "origin" "-1812 2952 448"
+}
+// entity 102
+{
+"classname" "monster_shambler"
+"origin" "-1032 2792 360"
+"angle" "210"
+}
+// entity 103
+{
+"classname" "monster_shambler"
+"origin" "-1032 2564 360"
+"angle" "165"
+}
+// entity 104
+{
+"classname" "item_armor1"
+"origin" "328 1724 -16"
+}
+// entity 105
+{
+"classname" "item_armor2"
+"origin" "2248 -2248 0"
+}
+// entity 106
+{
+"classname" "item_spikes"
+"origin" "1076 1904 -16"
+}
+// entity 107
+{
+"classname" "item_health"
+"origin" "740 1820 -16"
 }
