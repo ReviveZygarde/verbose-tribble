@@ -12920,3 +12920,50 @@
 "classname" "light_fluoro"
 "origin" "1510.54 6392 632"
 }
+// entity 472
+{
+"classname" "light"
+"origin" "1896 6568 488"
+"angle" "0"
+}
+// entity 473
+{
+"classname" "light"
+"origin" "1896 6232 488"
+"angle" "0"
+}
+// entity 474
+{
+"classname" "light"
+"origin" "2504 6232 488"
+"angle" "0"
+}
+// entity 475
+{
+"classname" "light"
+"origin" "2504 6504 488"
+"angle" "0"
+}
+// entity 476
+{
+"classname" "light"
+"origin" "2152 6376 488"
+"angle" "0"
+}
+// entity 477
+{
+"classname" "light"
+"origin" "2184 6744 458.117"
+}
+// entity 478
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2090.63 6820 604"
+"angle" "270"
+}
+// entity 479
+{
+"classname" "light_torch_small_walltorch"
+"origin" "2266.63 6820 604"
+"angle" "270"
+}
