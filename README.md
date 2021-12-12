@@ -12,3 +12,4 @@ A single-player map for the game *Quake*.
 * [Gameplay](https://github.com/ReviveZygarde/verbose-tribble/wiki/Gameplay)
 * [Greyboxing Walkthrough](https://github.com/ReviveZygarde/verbose-tribble/wiki/Greybox)
 * [Final Map Walkthrough](https://github.com/ReviveZygarde/verbose-tribble/wiki/Final-Map-Walkthrough)
+* [Releases Page](https://github.com/ReviveZygarde/verbose-tribble/releases)
